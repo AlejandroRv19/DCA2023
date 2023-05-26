@@ -1,0 +1,1 @@
+export {default as dasboard} from './dasboard/dasboard'

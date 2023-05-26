@@ -1,0 +1,27 @@
+.main_box{
+
+    background-color: blue;
+}
+
+
+.second_box{
+
+    background-color: rgb(155, 179, 22);
+}
+
+
+
+.product_box{
+
+    background-color: rgb(152, 14, 165);
+}
+
+
+.producto_box{
+
+    background-color: rgb(143, 23, 23);
+}
+
+*{
+    background-color: rgb(135, 156, 13);
+}
